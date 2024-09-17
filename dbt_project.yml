@@ -4,6 +4,7 @@
 # name or the intended use of these models
 name: 'dbt_northwind'
 version: '2.0.0'
+config-version: 2
 
 # This setting configures which "profile" dbt uses for this project.
 profile: 'dbt_northwind'
